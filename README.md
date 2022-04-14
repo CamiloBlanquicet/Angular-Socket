@@ -16,6 +16,8 @@ ng server -p
 
 ## Demostacion
 
+![image](https://https://github.com/CamiloBlanquicet/chat-angular-sockets/blob/grafica-encuesta/demostracion.gif)
+
 
 
 ⌨️ por [CamiloBlanquicet](https://github.com/CamiloBlanquicet/) 😊

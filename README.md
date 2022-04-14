@@ -6,4 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-![gif](https://giphy.com/embed/5tP9eZdS41DEX0Wh6Z)
+![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+Explicación
+https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif
+ Esta URL de enlace es la URL de enlace que se muestra en github después de cargar la imagen gif.
+

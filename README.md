@@ -1,7 +1,7 @@
 
 
 
-# Angular + Sockects 
+# Chat Angular + Sockects 
 
 
 ## Caracteristicas 
